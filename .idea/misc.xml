@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/ic_china_map.xml" value="0.202" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/ic_statistics.xml" value="0.202" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/ic_subscribe.xml" value="0.202" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/layer_dash_line.xml" value="0.4" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/selector_label_background.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/selector_label_text_color.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/drawable/shape_dash_line.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/activity_city_picker.xml" value="0.19293478260869565" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_domestic.xml" value="0.2210849539406346" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_international.xml" value="0.19202898550724637" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_map.xml" value="0.2" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_map2.xml" value="0.19202898550724637" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_statics.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_statics2.xml" value="0.19202898550724637" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_subscribe.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/fragment_subscribe2.xml" value="0.19202898550724637" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/item_name.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/item_news.xml" value="0.3424479166666667" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/item_province_daily_list.xml" value="0.146875" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/item_province_dialy_list.xml" value="0.23802083333333332" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/item_province_subscribe.xml" value="0.19293478260869565" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_barchart.xml" value="0.25364583333333335" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_linechart.xml" value="0.25364583333333335" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_map.xml" value="0.17604166666666668" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_news.xml" value="0.11284046692607004" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_province_daily_list.xml" value="0.23541666666666666" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_risk_area.xml" value="0.1" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_source_date.xml" value="0.29292929292929293" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/layout_statistics.xml" value="0.4" />
+        <entry key="..\:/Libraries/android/COVID-19_Spider/app/src/main/res/layout/title_province_daily_list.xml" value="0.23802083333333332" />
+        <entry key="..\:/study/covid/COVID-19_Spider/app/src/main/res/layout/fragment_subscribe.xml" value="0.18802083333333333" />
+        <entry key="..\:/study/covid/COVID-19_Spider/app/src/main/res/layout/item_news.xml" value="0.18802083333333333" />
+        <entry key="..\:/study/covid/COVID-19_Spider/app/src/main/res/layout/layout_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/study/covid/COVID-19_Spider/app/src/main/res/layout/layout_risk_area.xml" value="0.14673913043478262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

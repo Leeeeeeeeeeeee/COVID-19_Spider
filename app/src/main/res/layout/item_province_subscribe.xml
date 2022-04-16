@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/dimen_common">
+
+    <TextView
+        android:id="@+id/tv_subscribe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/background_subscribe"
+        android:textColor="@color/text_default"
+        app:layout_constraintLeft_toRightOf="@id/rv_province_subscribe_list"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="广东" />
+
+    <ImageView
+        android:id="@+id/iv_triangle"
+        android:layout_width="@dimen/size_triangle"
+        android:layout_height="@dimen/size_triangle"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_triangle_down"
+        android:visibility="invisible"
+        app:tint="@color/hint" />
+</LinearLayout>

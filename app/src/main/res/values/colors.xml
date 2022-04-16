@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    <color name="theme_color">#009d3e</color>-->
+    <color name="white">#ffffff</color>
+    <color name="background_white">#f9f9f9</color>
+    <color name="background_title">#f4fdfc</color>
+    <color name="background_subscribe">#fbf7f6</color>
+
+    <color name="theme_color">#0aa877</color>
+    <color name="theme_color_light">#00e059</color>
+    <color name="theme_color_dark">#0d6413</color>
+    <color name="accent_color_blue">#44bbff</color>
+    <color name="accent_color_green">#1CA17D</color>
+    <color name="chart_orange">#66FF6437</color>
+    <color name="orange">#FF6437</color>
+    <color name="chart_green">#660aa877</color>
+    <color name="line">#eeeeee</color>
+    <color name="text_default">#454545</color>
+    <color name="hint">#8D8D8D</color>
+
+</resources>

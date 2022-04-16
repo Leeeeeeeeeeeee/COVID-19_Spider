@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">疫网打尽</string>
+    <string name="tab_map">地图</string>
+    <string name="tab_statics">统计</string>
+    <string name="tab_subsribe">订阅</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="area">地区</string>
+    <string name="global">全球</string>
+    <string name="international">国际</string>
+    <string name="domestic">国内</string>
+    <string name="confirmed_count">累计确诊</string>
+    <string name="current_confirmed_count">现有确诊</string>
+    <string name="cured_count">累计治愈</string>
+    <string name="dead_count">累计死亡</string>
+    <string name="new_diagnosed">新增确诊</string>
+    <string name="now_diagnosed">现有确诊</string>
+    <string name="count_diagnosed">累计确诊</string>
+    <string name="tips_waiting">等待服务器返回数据中...</string>
+    <string name="tendency_number">全国治愈数和死亡数</string>
+    <string name="tendency_ratio">治愈率与死亡率</string>
+    <string name="data_from">数据来源于</string>
+    <string name="end_date">统计截止至</string>
+    <string name="add_subscribe">+ 订阅</string>
+    <string name="high_risk_area">高风险区域</string>
+    <string name="middle_risk_area">中风险区域</string>
+    <string name="not_found">未找到</string>
+</resources>

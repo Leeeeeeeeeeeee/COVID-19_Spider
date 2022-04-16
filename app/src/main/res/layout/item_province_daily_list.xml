@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingVertical="@dimen/dimen_common">
+
+    <TextView
+        android:id="@+id/tv_area"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/text_default"
+        tools:text="广东" />
+
+    <TextView
+        android:id="@+id/tv_current_confirmed_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/text_default"
+        tools:text="23" />
+
+    <TextView
+        android:id="@+id/tv_current_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimen_common"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/text_default"
+        tools:text="345" />
+
+    <TextView
+        android:id="@+id/tv_cured_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimen_common"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/text_default"
+        tools:text="34567" />
+
+    <TextView
+        android:id="@+id/tv_dead_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimen_common"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/text_default"
+        tools:text="2" />
+</LinearLayout>
